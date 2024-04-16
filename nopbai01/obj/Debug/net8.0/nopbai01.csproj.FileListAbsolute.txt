@@ -1,0 +1,15 @@
+c:\Users\syste\Documents\SEM2_T2306E_PC-\nopbai01\bin\Debug\net8.0\nopbai01.exe
+c:\Users\syste\Documents\SEM2_T2306E_PC-\nopbai01\bin\Debug\net8.0\nopbai01.deps.json
+c:\Users\syste\Documents\SEM2_T2306E_PC-\nopbai01\bin\Debug\net8.0\nopbai01.runtimeconfig.json
+c:\Users\syste\Documents\SEM2_T2306E_PC-\nopbai01\bin\Debug\net8.0\nopbai01.dll
+c:\Users\syste\Documents\SEM2_T2306E_PC-\nopbai01\bin\Debug\net8.0\nopbai01.pdb
+c:\Users\syste\Documents\SEM2_T2306E_PC-\nopbai01\obj\Debug\net8.0\nopbai01.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\syste\Documents\SEM2_T2306E_PC-\nopbai01\obj\Debug\net8.0\nopbai01.AssemblyInfoInputs.cache
+c:\Users\syste\Documents\SEM2_T2306E_PC-\nopbai01\obj\Debug\net8.0\nopbai01.AssemblyInfo.cs
+c:\Users\syste\Documents\SEM2_T2306E_PC-\nopbai01\obj\Debug\net8.0\nopbai01.csproj.CoreCompileInputs.cache
+c:\Users\syste\Documents\SEM2_T2306E_PC-\nopbai01\obj\Debug\net8.0\nopbai01.sourcelink.json
+c:\Users\syste\Documents\SEM2_T2306E_PC-\nopbai01\obj\Debug\net8.0\nopbai01.dll
+c:\Users\syste\Documents\SEM2_T2306E_PC-\nopbai01\obj\Debug\net8.0\refint\nopbai01.dll
+c:\Users\syste\Documents\SEM2_T2306E_PC-\nopbai01\obj\Debug\net8.0\nopbai01.pdb
+c:\Users\syste\Documents\SEM2_T2306E_PC-\nopbai01\obj\Debug\net8.0\nopbai01.genruntimeconfig.cache
+c:\Users\syste\Documents\SEM2_T2306E_PC-\nopbai01\obj\Debug\net8.0\ref\nopbai01.dll
