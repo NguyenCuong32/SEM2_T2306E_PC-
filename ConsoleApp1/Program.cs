@@ -5,7 +5,7 @@ internal class Program
     private static void Main(string[] args)
     {
         IBankAccount regularAcconut = new RegularAccount();
-        IBankAccount exchangeAccount = new ExchangeAccount(25000000);
+        IBankAccount exchangeAccount = new ExchangeAccount(25000);
 
         while (true)
         {
