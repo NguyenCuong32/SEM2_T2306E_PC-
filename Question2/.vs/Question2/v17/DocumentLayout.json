@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\all folders\\fai\\sem2\\c#\\question2\\productpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|solutionrelative:productpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\all folders\\fai\\sem2\\c#\\question2\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\all folders\\fai\\sem2\\c#\\question2\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\all folders\\fai\\sem2\\c#\\question2\\productpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|solutionrelative:productpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\all folders\\fai\\sem2\\c#\\question2\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\all folders\\fai\\sem2\\c#\\question2\\question2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|solutionrelative:question2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\all folders\\fai\\sem2\\c#\\question2\\product.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|solutionrelative:product.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\ProductPage.xaml",
+              "RelativeDocumentMoniker": "ProductPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\ProductPage.xaml",
+              "RelativeToolTip": "ProductPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T13:12:16.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\ProductPage.xaml.cs",
+              "RelativeDocumentMoniker": "ProductPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\ProductPage.xaml.cs",
+              "RelativeToolTip": "ProductPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:12:03.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T13:10:11.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T13:10:02.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:04:14.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "product.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\product.json",
+              "RelativeDocumentMoniker": "product.json",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\product.json",
+              "RelativeToolTip": "product.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T13:02:57.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Question2",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\Question2.csproj",
+              "RelativeDocumentMoniker": "Question2.csproj",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\Question2.csproj",
+              "RelativeToolTip": "Question2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T13:01:29.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

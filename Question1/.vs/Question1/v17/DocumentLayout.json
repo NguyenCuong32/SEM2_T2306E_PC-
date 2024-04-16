@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9C32C-FB4F-4A62-8AE6-F05029D86254}|Question1.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\all folders\\fai\\sem2\\c#\\question1\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9C32C-FB4F-4A62-8AE6-F05029D86254}|Question1.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9C32C-FB4F-4A62-8AE6-F05029D86254}|Question1.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\all folders\\fai\\sem2\\c#\\question1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9C32C-FB4F-4A62-8AE6-F05029D86254}|Question1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9C32C-FB4F-4A62-8AE6-F05029D86254}|Question1.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\all folders\\fai\\sem2\\c#\\question1\\exchangeaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9C32C-FB4F-4A62-8AE6-F05029D86254}|Question1.csproj|solutionrelative:exchangeaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE9C32C-FB4F-4A62-8AE6-F05029D86254}|Question1.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\all folders\\fai\\sem2\\c#\\question1\\normalaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE9C32C-FB4F-4A62-8AE6-F05029D86254}|Question1.csproj|solutionrelative:normalaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExchangeAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question1\\ExchangeAccount.cs",
+              "RelativeDocumentMoniker": "ExchangeAccount.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question1\\ExchangeAccount.cs",
+              "RelativeToolTip": "ExchangeAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:38:42.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NormalAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question1\\NormalAccount.cs",
+              "RelativeDocumentMoniker": "NormalAccount.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question1\\NormalAccount.cs",
+              "RelativeToolTip": "NormalAccount.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:32:39.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question1\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question1\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:29:19.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:28:44.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
