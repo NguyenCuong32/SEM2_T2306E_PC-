@@ -12,9 +12,9 @@ public class ExchangeAccount : Check
         return balance - sotien;
     }
 
-    public double exchangeRate(double dola)
+    public double exchangeRate(double balance)
     {
-        dola = balance / 25000;
+        double dola = balance / 25000;
         return dola;
     }
 }
