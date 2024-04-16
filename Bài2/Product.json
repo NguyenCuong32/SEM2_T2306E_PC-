@@ -1,0 +1,17 @@
+[
+    {
+    "id": 1,
+    "productName": "iPhone 15 Pro",
+    "giá": 1000.99
+    },
+    {
+    "id": 2,
+    "productName": "Macbook air",
+    "giá": 1500.99
+    },
+    {
+    "id": 3,
+    "tên sản phẩm": "iPod",
+    "giá": 100.5
+    }
+]

@@ -1,0 +1,15 @@
+D:\git_admin\SEM2_T2306E_PC-\Bài1\bin\Debug\net8.0\Bài1.exe
+D:\git_admin\SEM2_T2306E_PC-\Bài1\bin\Debug\net8.0\Bài1.deps.json
+D:\git_admin\SEM2_T2306E_PC-\Bài1\bin\Debug\net8.0\Bài1.runtimeconfig.json
+D:\git_admin\SEM2_T2306E_PC-\Bài1\bin\Debug\net8.0\Bài1.dll
+D:\git_admin\SEM2_T2306E_PC-\Bài1\bin\Debug\net8.0\Bài1.pdb
+D:\git_admin\SEM2_T2306E_PC-\Bài1\obj\Debug\net8.0\Bài1.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_admin\SEM2_T2306E_PC-\Bài1\obj\Debug\net8.0\Bài1.AssemblyInfoInputs.cache
+D:\git_admin\SEM2_T2306E_PC-\Bài1\obj\Debug\net8.0\Bài1.AssemblyInfo.cs
+D:\git_admin\SEM2_T2306E_PC-\Bài1\obj\Debug\net8.0\Bài1.csproj.CoreCompileInputs.cache
+D:\git_admin\SEM2_T2306E_PC-\Bài1\obj\Debug\net8.0\Bài1.sourcelink.json
+D:\git_admin\SEM2_T2306E_PC-\Bài1\obj\Debug\net8.0\Bài1.dll
+D:\git_admin\SEM2_T2306E_PC-\Bài1\obj\Debug\net8.0\refint\Bài1.dll
+D:\git_admin\SEM2_T2306E_PC-\Bài1\obj\Debug\net8.0\Bài1.pdb
+D:\git_admin\SEM2_T2306E_PC-\Bài1\obj\Debug\net8.0\Bài1.genruntimeconfig.cache
+D:\git_admin\SEM2_T2306E_PC-\Bài1\obj\Debug\net8.0\ref\Bài1.dll
