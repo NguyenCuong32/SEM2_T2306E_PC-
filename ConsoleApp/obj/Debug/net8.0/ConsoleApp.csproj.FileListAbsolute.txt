@@ -1,0 +1,15 @@
+D:\NguyenVanThang\SEM2_T2306E_PC-\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+D:\NguyenVanThang\SEM2_T2306E_PC-\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+D:\NguyenVanThang\SEM2_T2306E_PC-\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+D:\NguyenVanThang\SEM2_T2306E_PC-\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+D:\NguyenVanThang\SEM2_T2306E_PC-\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+D:\NguyenVanThang\SEM2_T2306E_PC-\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\NguyenVanThang\SEM2_T2306E_PC-\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\NguyenVanThang\SEM2_T2306E_PC-\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+D:\NguyenVanThang\SEM2_T2306E_PC-\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\NguyenVanThang\SEM2_T2306E_PC-\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
+D:\NguyenVanThang\SEM2_T2306E_PC-\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+D:\NguyenVanThang\SEM2_T2306E_PC-\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+D:\NguyenVanThang\SEM2_T2306E_PC-\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+D:\NguyenVanThang\SEM2_T2306E_PC-\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+D:\NguyenVanThang\SEM2_T2306E_PC-\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
