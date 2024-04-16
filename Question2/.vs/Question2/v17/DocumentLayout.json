@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|solutionrelative:productpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\productpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|solutionrelative:productpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\product.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|solutionrelative:product.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -15,20 +23,12 @@
       "RelativeMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\productpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|solutionrelative:productpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\question2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|solutionrelative:question2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\product.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EE6FF432-C19B-4B51-BD00-E11198E9AAC7}|Question2.csproj|solutionrelative:product.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ProductPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\ProductPage.xaml.cs",
               "RelativeDocumentMoniker": "ProductPage.xaml.cs",
@@ -63,11 +63,12 @@
               "RelativeToolTip": "ProductPage.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T13:12:03.402Z"
+              "WhenOpened": "2024-04-16T13:12:03.402Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\AppShell.xaml",
               "RelativeDocumentMoniker": "AppShell.xaml",
@@ -79,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\MainPage.xaml",
               "RelativeDocumentMoniker": "MainPage.xaml",
@@ -91,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "Services\\ProductService.cs",
@@ -103,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "product.json",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\product.json",
               "RelativeDocumentMoniker": "product.json",
@@ -111,11 +112,12 @@
               "RelativeToolTip": "product.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-16T13:02:57.713Z"
+              "WhenOpened": "2024-04-16T13:02:57.713Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Question2",
               "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\All Folders\\FAI\\SEM2\\C#\\Question2\\Question2.csproj",
               "RelativeDocumentMoniker": "Question2.csproj",

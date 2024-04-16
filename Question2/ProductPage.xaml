@@ -13,7 +13,7 @@
                 <DataTemplate>
                     <StackLayout Padding="10">
                         <Label Text="{Binding id}" />
-                        <Label Text="{Binding name}" />
+                        <Label Text="{Binding productName}" />
                         <Label Text="{Binding price}" />
                     </StackLayout>
                 </DataTemplate>
