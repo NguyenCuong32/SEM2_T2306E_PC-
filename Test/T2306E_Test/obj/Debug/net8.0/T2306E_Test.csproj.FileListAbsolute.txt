@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Documents\GitHub\SEM2_T2306E_PC-\Test\T2306E_Test\bin\Debug\net8.0\T2306E_Test.exe
+C:\Users\ADMIN\Documents\GitHub\SEM2_T2306E_PC-\Test\T2306E_Test\bin\Debug\net8.0\T2306E_Test.deps.json
+C:\Users\ADMIN\Documents\GitHub\SEM2_T2306E_PC-\Test\T2306E_Test\bin\Debug\net8.0\T2306E_Test.runtimeconfig.json
+C:\Users\ADMIN\Documents\GitHub\SEM2_T2306E_PC-\Test\T2306E_Test\bin\Debug\net8.0\T2306E_Test.dll
+C:\Users\ADMIN\Documents\GitHub\SEM2_T2306E_PC-\Test\T2306E_Test\bin\Debug\net8.0\T2306E_Test.pdb
+C:\Users\ADMIN\Documents\GitHub\SEM2_T2306E_PC-\Test\T2306E_Test\obj\Debug\net8.0\T2306E_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\GitHub\SEM2_T2306E_PC-\Test\T2306E_Test\obj\Debug\net8.0\T2306E_Test.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\GitHub\SEM2_T2306E_PC-\Test\T2306E_Test\obj\Debug\net8.0\T2306E_Test.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\GitHub\SEM2_T2306E_PC-\Test\T2306E_Test\obj\Debug\net8.0\T2306E_Test.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\SEM2_T2306E_PC-\Test\T2306E_Test\obj\Debug\net8.0\T2306E_Test.sourcelink.json
+C:\Users\ADMIN\Documents\GitHub\SEM2_T2306E_PC-\Test\T2306E_Test\obj\Debug\net8.0\T2306E_Test.dll
+C:\Users\ADMIN\Documents\GitHub\SEM2_T2306E_PC-\Test\T2306E_Test\obj\Debug\net8.0\refint\T2306E_Test.dll
+C:\Users\ADMIN\Documents\GitHub\SEM2_T2306E_PC-\Test\T2306E_Test\obj\Debug\net8.0\T2306E_Test.pdb
+C:\Users\ADMIN\Documents\GitHub\SEM2_T2306E_PC-\Test\T2306E_Test\obj\Debug\net8.0\T2306E_Test.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\GitHub\SEM2_T2306E_PC-\Test\T2306E_Test\obj\Debug\net8.0\ref\T2306E_Test.dll
