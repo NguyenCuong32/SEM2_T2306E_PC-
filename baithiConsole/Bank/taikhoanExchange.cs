@@ -16,10 +16,10 @@ public class TaiKhoanExchange : Bank, ITiGia
 
     public override void GuiTien(double tiengui)
     {
-        System.Console.Write(" nhap so tia khoan Extral: ");
+        System.Console.Write(" nhap so tia khoan Extral ($): ");
         double taikh = Convert.ToDouble(Console.ReadLine());
         if(this.numberTaiKhoanX == taikh){
-            this.Sodu = tiengui;
+            this.Sodu += tiengui;
         }
         System.Console.WriteLine("gui tien thanh cong");
     }

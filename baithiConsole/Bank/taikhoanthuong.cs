@@ -13,18 +13,18 @@ public class TaikhoanThuong : Bank
         System.Console.Write(" nhap so tai khoan can chuyen: ");
         double taikh = Convert.ToDouble(Console.ReadLine());
         if(this.numberTaiKhoan == taikh){
-            this.Sodu = tienchuyen/25000;
+            this.Sodu += tienchuyen/25000;
         }
 
     }
 
     public override void GuiTien( double tiengui )
     {
-        System.Console.Write(" nhap so tia khoan Thuong: ");
+        System.Console.Write(" nhap so tia khoan Thuong(VND): ");
         double taikh = Convert.ToDouble(Console.ReadLine());
         if(this.numberTaiKhoan == taikh){
             this.Sodu = tiengui/25000;
         }
-        System.Console.WriteLine("gui tien thanh cong");
+        System.Console.WriteLine($"gui tien thanh cong so tien {tiengui}");
     }
 }
