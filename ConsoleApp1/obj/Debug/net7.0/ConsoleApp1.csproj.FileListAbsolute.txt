@@ -1,0 +1,14 @@
+/Users/hi/Documents/baithic#/SEM2_T2306E_PC-/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1
+/Users/hi/Documents/baithic#/SEM2_T2306E_PC-/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.deps.json
+/Users/hi/Documents/baithic#/SEM2_T2306E_PC-/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.runtimeconfig.json
+/Users/hi/Documents/baithic#/SEM2_T2306E_PC-/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll
+/Users/hi/Documents/baithic#/SEM2_T2306E_PC-/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.pdb
+/Users/hi/Documents/baithic#/SEM2_T2306E_PC-/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hi/Documents/baithic#/SEM2_T2306E_PC-/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/hi/Documents/baithic#/SEM2_T2306E_PC-/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfo.cs
+/Users/hi/Documents/baithic#/SEM2_T2306E_PC-/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/hi/Documents/baithic#/SEM2_T2306E_PC-/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll
+/Users/hi/Documents/baithic#/SEM2_T2306E_PC-/ConsoleApp1/obj/Debug/net7.0/refint/ConsoleApp1.dll
+/Users/hi/Documents/baithic#/SEM2_T2306E_PC-/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.pdb
+/Users/hi/Documents/baithic#/SEM2_T2306E_PC-/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.genruntimeconfig.cache
+/Users/hi/Documents/baithic#/SEM2_T2306E_PC-/ConsoleApp1/obj/Debug/net7.0/ref/ConsoleApp1.dll

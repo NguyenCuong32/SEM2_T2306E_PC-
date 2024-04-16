@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "o7NMN+omIJyEvsEbPuOhZUmod14U0aEJ+cWkWKvstGqfZB1tLpCHuiTXm3TaovLogDNqueQ35NWdGg8vUdH/RQ==",
+  "success": false,
+  "projectFilePath": "/Users/hi/Documents/baithic#/SEM2_T2306E_PC-/MauiApp1/MauiApp1.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net7.0-ios, net7.0-maccatalyst"
+    }
+  ]
+}
