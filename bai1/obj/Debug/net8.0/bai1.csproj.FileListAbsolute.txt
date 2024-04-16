@@ -1,0 +1,15 @@
+C:\Users\ACER\Documents\Angular 2\github\SEM2_T2306E_PC-\bai1\bin\Debug\net8.0\bai1.exe
+C:\Users\ACER\Documents\Angular 2\github\SEM2_T2306E_PC-\bai1\bin\Debug\net8.0\bai1.deps.json
+C:\Users\ACER\Documents\Angular 2\github\SEM2_T2306E_PC-\bai1\bin\Debug\net8.0\bai1.runtimeconfig.json
+C:\Users\ACER\Documents\Angular 2\github\SEM2_T2306E_PC-\bai1\bin\Debug\net8.0\bai1.dll
+C:\Users\ACER\Documents\Angular 2\github\SEM2_T2306E_PC-\bai1\bin\Debug\net8.0\bai1.pdb
+C:\Users\ACER\Documents\Angular 2\github\SEM2_T2306E_PC-\bai1\obj\Debug\net8.0\bai1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\Angular 2\github\SEM2_T2306E_PC-\bai1\obj\Debug\net8.0\bai1.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\Angular 2\github\SEM2_T2306E_PC-\bai1\obj\Debug\net8.0\bai1.AssemblyInfo.cs
+C:\Users\ACER\Documents\Angular 2\github\SEM2_T2306E_PC-\bai1\obj\Debug\net8.0\bai1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Angular 2\github\SEM2_T2306E_PC-\bai1\obj\Debug\net8.0\bai1.sourcelink.json
+C:\Users\ACER\Documents\Angular 2\github\SEM2_T2306E_PC-\bai1\obj\Debug\net8.0\bai1.dll
+C:\Users\ACER\Documents\Angular 2\github\SEM2_T2306E_PC-\bai1\obj\Debug\net8.0\refint\bai1.dll
+C:\Users\ACER\Documents\Angular 2\github\SEM2_T2306E_PC-\bai1\obj\Debug\net8.0\bai1.pdb
+C:\Users\ACER\Documents\Angular 2\github\SEM2_T2306E_PC-\bai1\obj\Debug\net8.0\bai1.genruntimeconfig.cache
+C:\Users\ACER\Documents\Angular 2\github\SEM2_T2306E_PC-\bai1\obj\Debug\net8.0\ref\bai1.dll
