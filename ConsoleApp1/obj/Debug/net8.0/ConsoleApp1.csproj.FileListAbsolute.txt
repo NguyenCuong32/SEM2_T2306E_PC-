@@ -1,0 +1,15 @@
+/Users/dung/code/learn2/Thi C sharp/SEM2_T2306E_PC-/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/dung/code/learn2/Thi C sharp/SEM2_T2306E_PC-/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/dung/code/learn2/Thi C sharp/SEM2_T2306E_PC-/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/dung/code/learn2/Thi C sharp/SEM2_T2306E_PC-/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/dung/code/learn2/Thi C sharp/SEM2_T2306E_PC-/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/dung/code/learn2/Thi C sharp/SEM2_T2306E_PC-/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dung/code/learn2/Thi C sharp/SEM2_T2306E_PC-/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/dung/code/learn2/Thi C sharp/SEM2_T2306E_PC-/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/dung/code/learn2/Thi C sharp/SEM2_T2306E_PC-/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/dung/code/learn2/Thi C sharp/SEM2_T2306E_PC-/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
+/Users/dung/code/learn2/Thi C sharp/SEM2_T2306E_PC-/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/dung/code/learn2/Thi C sharp/SEM2_T2306E_PC-/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/dung/code/learn2/Thi C sharp/SEM2_T2306E_PC-/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/dung/code/learn2/Thi C sharp/SEM2_T2306E_PC-/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/dung/code/learn2/Thi C sharp/SEM2_T2306E_PC-/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
