@@ -1,0 +1,15 @@
+D:\Project\New folder\SEM2_T2306E_PC-\ConsoleAppthi\bin\Debug\net8.0\ConsoleAppthi.exe
+D:\Project\New folder\SEM2_T2306E_PC-\ConsoleAppthi\bin\Debug\net8.0\ConsoleAppthi.deps.json
+D:\Project\New folder\SEM2_T2306E_PC-\ConsoleAppthi\bin\Debug\net8.0\ConsoleAppthi.runtimeconfig.json
+D:\Project\New folder\SEM2_T2306E_PC-\ConsoleAppthi\bin\Debug\net8.0\ConsoleAppthi.dll
+D:\Project\New folder\SEM2_T2306E_PC-\ConsoleAppthi\bin\Debug\net8.0\ConsoleAppthi.pdb
+D:\Project\New folder\SEM2_T2306E_PC-\ConsoleAppthi\obj\Debug\net8.0\ConsoleAppthi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\New folder\SEM2_T2306E_PC-\ConsoleAppthi\obj\Debug\net8.0\ConsoleAppthi.AssemblyInfoInputs.cache
+D:\Project\New folder\SEM2_T2306E_PC-\ConsoleAppthi\obj\Debug\net8.0\ConsoleAppthi.AssemblyInfo.cs
+D:\Project\New folder\SEM2_T2306E_PC-\ConsoleAppthi\obj\Debug\net8.0\ConsoleAppthi.csproj.CoreCompileInputs.cache
+D:\Project\New folder\SEM2_T2306E_PC-\ConsoleAppthi\obj\Debug\net8.0\ConsoleAppthi.sourcelink.json
+D:\Project\New folder\SEM2_T2306E_PC-\ConsoleAppthi\obj\Debug\net8.0\ConsoleAppthi.dll
+D:\Project\New folder\SEM2_T2306E_PC-\ConsoleAppthi\obj\Debug\net8.0\refint\ConsoleAppthi.dll
+D:\Project\New folder\SEM2_T2306E_PC-\ConsoleAppthi\obj\Debug\net8.0\ConsoleAppthi.pdb
+D:\Project\New folder\SEM2_T2306E_PC-\ConsoleAppthi\obj\Debug\net8.0\ConsoleAppthi.genruntimeconfig.cache
+D:\Project\New folder\SEM2_T2306E_PC-\ConsoleAppthi\obj\Debug\net8.0\ref\ConsoleAppthi.dll
