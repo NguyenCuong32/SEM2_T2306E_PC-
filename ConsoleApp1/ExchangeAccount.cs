@@ -17,6 +17,6 @@ public class ExchangeAccount : BankAccount
     {
         decimal sotientraodoi = SoLuong * TyGia;
         SoDu = sotientraodoi;
-        Console.WriteLine($"Bạn đã chuyển khoản {SoLuong:C} đ, So dua cua ban: {SoDu:C} đ");
+        Console.WriteLine($"ban da chuyen khoan {SoLuong:C} đ, So dua cua ban: {SoDu:C} đ");
     }
 }
