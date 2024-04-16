@@ -12,6 +12,7 @@ public class ExchangeAccount  : IAccount {
 
     public void checkbalancer()
     {
+        Console.WriteLine($"Your balance: $ {balance} ");
         Console.WriteLine($"Your balance: {balance*tyso} đ");
     }
 
