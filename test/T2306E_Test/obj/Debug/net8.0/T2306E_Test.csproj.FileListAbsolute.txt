@@ -1,0 +1,15 @@
+C:\Users\nguye\OneDrive\Tài liệu\GitHub\SEM2_T2306E_PC-\test\T2306E_Test\bin\Debug\net8.0\T2306E_Test.exe
+C:\Users\nguye\OneDrive\Tài liệu\GitHub\SEM2_T2306E_PC-\test\T2306E_Test\bin\Debug\net8.0\T2306E_Test.deps.json
+C:\Users\nguye\OneDrive\Tài liệu\GitHub\SEM2_T2306E_PC-\test\T2306E_Test\bin\Debug\net8.0\T2306E_Test.runtimeconfig.json
+C:\Users\nguye\OneDrive\Tài liệu\GitHub\SEM2_T2306E_PC-\test\T2306E_Test\bin\Debug\net8.0\T2306E_Test.dll
+C:\Users\nguye\OneDrive\Tài liệu\GitHub\SEM2_T2306E_PC-\test\T2306E_Test\bin\Debug\net8.0\T2306E_Test.pdb
+C:\Users\nguye\OneDrive\Tài liệu\GitHub\SEM2_T2306E_PC-\test\T2306E_Test\obj\Debug\net8.0\T2306E_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Tài liệu\GitHub\SEM2_T2306E_PC-\test\T2306E_Test\obj\Debug\net8.0\T2306E_Test.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Tài liệu\GitHub\SEM2_T2306E_PC-\test\T2306E_Test\obj\Debug\net8.0\T2306E_Test.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Tài liệu\GitHub\SEM2_T2306E_PC-\test\T2306E_Test\obj\Debug\net8.0\T2306E_Test.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Tài liệu\GitHub\SEM2_T2306E_PC-\test\T2306E_Test\obj\Debug\net8.0\T2306E_Test.sourcelink.json
+C:\Users\nguye\OneDrive\Tài liệu\GitHub\SEM2_T2306E_PC-\test\T2306E_Test\obj\Debug\net8.0\T2306E_Test.dll
+C:\Users\nguye\OneDrive\Tài liệu\GitHub\SEM2_T2306E_PC-\test\T2306E_Test\obj\Debug\net8.0\refint\T2306E_Test.dll
+C:\Users\nguye\OneDrive\Tài liệu\GitHub\SEM2_T2306E_PC-\test\T2306E_Test\obj\Debug\net8.0\T2306E_Test.pdb
+C:\Users\nguye\OneDrive\Tài liệu\GitHub\SEM2_T2306E_PC-\test\T2306E_Test\obj\Debug\net8.0\T2306E_Test.genruntimeconfig.cache
+C:\Users\nguye\OneDrive\Tài liệu\GitHub\SEM2_T2306E_PC-\test\T2306E_Test\obj\Debug\net8.0\ref\T2306E_Test.dll
